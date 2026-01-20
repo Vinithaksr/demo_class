@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hiii Suiiiiiii!!!!!!!!!!!!!!
+=======
+hiii Suuui!!!!!!!!!!!!!!
+Helooooo
+hi!!!!!!!!!!!!!!!!!!!
+>>>>>>> fe0ebc58a67c192e890f5ff2532c7edcf8418595
